@@ -1,7 +1,5 @@
 import { useState } from 'react'
 
-import { cn } from './lib/util';
-
 import './App.css'
 
 import cards from './data/cards.json';
@@ -16,12 +14,8 @@ function App() {
   const [flashcards, updateFlashcards] = useState<Array<Flashcard>>(getRandomCards(cards));
   const [activeIndex, setActiveIndex] = useState(0);
 
-  console.log('flashcards', flashcards)
-  console.log('activeIndex', activeIndex)
-
   const activeCard = flashcards[activeIndex];
 
-  console.log('activeCard', activeCard)
 
   function goToNext() {
     let nextCard = flashcards.findIndex((card, index) => 
