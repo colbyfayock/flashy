@@ -56,7 +56,7 @@ function App() {
   return (
     <div className="w-full h-full flex items-center justify-center">
       {activeCard && (
-        <ul>
+        <ul className="w-full flex justify-center px-4">
           <Card
             {...activeCard}
             onDone={handleOnDone}

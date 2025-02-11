@@ -30,7 +30,7 @@ const Card = ({ question, answer, onDone, onSkip }: CardProps) => {
   }
 
   return (
-    <div className="flex flex-col items-center justify-between gap-4 w-2xl h-80 border-2 border-zinc-200 rounded-lg px-10 py-9">
+    <div className="flex flex-col items-center justify-between gap-4 w-full max-w-2xl h-80 border-2 border-zinc-200 rounded-lg px-10 py-9">
       <div className="flex flex-col items-center justify-center gap-4 grow">
         <h2 className="text-3xl font-bold">
           { question }
