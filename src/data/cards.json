@@ -1,0 +1,1387 @@
+[
+  {
+    "question": "fazer",
+    "answer": "to do/make",
+    "type": "verb"
+  },
+  {
+    "question": "estar",
+    "answer": "to be (temporary state)",
+    "type": "verb"
+  },
+  {
+    "question": "ser",
+    "answer": "to be (permanent state)",
+    "type": "verb"
+  },
+  {
+    "question": "ir",
+    "answer": "to go",
+    "type": "verb"
+  },
+  {
+    "question": "dormir",
+    "answer": "to sleep",
+    "type": "verb"
+  },
+  {
+    "question": "beber",
+    "answer": "to drink",
+    "type": "verb"
+  },
+  {
+    "question": "comer",
+    "answer": "to eat",
+    "type": "verb"
+  },
+  {
+    "question": "trabalhar",
+    "answer": "to work",
+    "type": "verb"
+  },
+  {
+    "question": "estudar",
+    "answer": "to study",
+    "type": "verb"
+  },
+  {
+    "question": "brincar",
+    "answer": "to play (games)/joke",
+    "type": "verb"
+  },
+  {
+    "question": "jogar",
+    "answer": "to play (sports/games)",
+    "type": "verb"
+  },
+  {
+    "question": "tocar",
+    "answer": "to play (instruments)",
+    "type": "verb"
+  },
+  {
+    "question": "colocar",
+    "answer": "to put/place",
+    "type": "verb"
+  },
+  {
+    "question": "arrumar",
+    "answer": "to arrange/fix",
+    "type": "verb"
+  },
+  {
+    "question": "acordar",
+    "answer": "to wake up",
+    "type": "verb"
+  },
+  {
+    "question": "amar",
+    "answer": "to love",
+    "type": "verb"
+  },
+  {
+    "question": "querer",
+    "answer": "to want",
+    "type": "verb"
+  },
+  {
+    "question": "precisar",
+    "answer": "to need",
+    "type": "verb"
+  },
+  {
+    "question": "saudade",
+    "answer": "missing someone/something",
+    "type": "noun"
+  },
+  {
+    "question": "preguiça",
+    "answer": "laziness",
+    "type": "noun"
+  },
+  {
+    "question": "coração",
+    "answer": "heart",
+    "type": "noun"
+  },
+  {
+    "question": "olhos",
+    "answer": "eyes",
+    "type": "noun"
+  },
+  {
+    "question": "cabeça",
+    "answer": "head",
+    "type": "noun"
+  },
+  {
+    "question": "mão",
+    "answer": "hand",
+    "type": "noun"
+  },
+  {
+    "question": "pé",
+    "answer": "foot",
+    "type": "noun"
+  },
+  {
+    "question": "casa",
+    "answer": "house",
+    "type": "noun"
+  },
+  {
+    "question": "quarto",
+    "answer": "bedroom",
+    "type": "noun"
+  },
+  {
+    "question": "sala",
+    "answer": "living room",
+    "type": "noun"
+  },
+  {
+    "question": "cozinha",
+    "answer": "kitchen",
+    "type": "noun"
+  },
+  {
+    "question": "geladeira",
+    "answer": "refrigerator",
+    "type": "noun"
+  },
+  {
+    "question": "café",
+    "answer": "coffee",
+    "type": "noun"
+  },
+  {
+    "question": "comida",
+    "answer": "food",
+    "type": "noun"
+  },
+  {
+    "question": "roupa",
+    "answer": "clothes",
+    "type": "noun"
+  },
+  {
+    "question": "calça",
+    "answer": "pants",
+    "type": "noun"
+  },
+  {
+    "question": "família",
+    "answer": "family",
+    "type": "noun"
+  },
+  {
+    "question": "amigos",
+    "answer": "friends",
+    "type": "noun"
+  },
+  {
+    "question": "trabalho",
+    "answer": "work",
+    "type": "noun"
+  },
+  {
+    "question": "festa",
+    "answer": "party",
+    "type": "noun"
+  },
+  {
+    "question": "música",
+    "answer": "music",
+    "type": "noun"
+  },
+  {
+    "question": "filme",
+    "answer": "movie",
+    "type": "noun"
+  },
+  {
+    "question": "livro",
+    "answer": "book",
+    "type": "noun"
+  },
+  {
+    "question": "tempo",
+    "answer": "time/weather",
+    "type": "noun"
+  },
+  {
+    "question": "dia",
+    "answer": "day",
+    "type": "noun"
+  },
+  {
+    "question": "noite",
+    "answer": "night",
+    "type": "noun"
+  },
+  {
+    "question": "semana",
+    "answer": "week",
+    "type": "noun"
+  },
+  {
+    "question": "mês",
+    "answer": "month",
+    "type": "noun"
+  },
+  {
+    "question": "ano",
+    "answer": "year",
+    "type": "noun"
+  },
+  {
+    "question": "agora",
+    "answer": "now",
+    "type": "adverb"
+  },
+  {
+    "question": "hoje",
+    "answer": "today",
+    "type": "adverb"
+  },
+  {
+    "question": "ontem",
+    "answer": "yesterday",
+    "type": "adverb"
+  },
+  {
+    "question": "Tudo bem?",
+    "answer": "Everything okay?",
+    "type": "greeting"
+  },
+  {
+    "question": "Como vai você?",
+    "answer": "How are you?",
+    "type": "greeting"
+  },
+  {
+    "question": "Qual é a sua profissão?",
+    "answer": "What is your profession?",
+    "type": "question"
+  },
+  {
+    "question": "O que você está fazendo?",
+    "answer": "What are you doing?",
+    "type": "question"
+  },
+  {
+    "question": "Onde você mora?",
+    "answer": "Where do you live?",
+    "type": "question"
+  },
+  {
+    "question": "Me conte como foi seu dia",
+    "answer": "Tell me how your day was",
+    "type": "request"
+  },
+  {
+    "question": "Eu estou com saudade",
+    "answer": "I am missing you/something",
+    "type": "expression"
+  },
+  {
+    "question": "Quanto tempo!",
+    "answer": "Long time no see!",
+    "type": "greeting"
+  },
+  {
+    "question": "Não faz sentido",
+    "answer": "It doesn't make sense",
+    "type": "expression"
+  },
+  {
+    "question": "Que horas são?",
+    "answer": "What time is it?",
+    "type": "question"
+  },
+  {
+    "question": "Bora lá!",
+    "answer": "Let's go!",
+    "type": "expression"
+  },
+  {
+    "question": "Até logo",
+    "answer": "See you later",
+    "type": "farewell"
+  },
+  {
+    "question": "Com certeza",
+    "answer": "For sure",
+    "type": "expression"
+  },
+  {
+    "question": "Não que eu saiba",
+    "answer": "Not that I know of",
+    "type": "expression"
+  },
+  {
+    "question": "Que surpresa!",
+    "answer": "What a surprise!",
+    "type": "expression"
+  },
+  {
+    "question": "Estou com fome",
+    "answer": "I am hungry",
+    "type": "statement"
+  },
+  {
+    "question": "Preciso dormir",
+    "answer": "I need to sleep",
+    "type": "statement"
+  },
+  {
+    "question": "Tudo no lugar",
+    "answer": "Everything in place",
+    "type": "expression"
+  },
+  {
+    "question": "Final de semana",
+    "answer": "Weekend",
+    "type": "time expression"
+  },
+  {
+    "question": "Foi um prazer",
+    "answer": "It was a pleasure",
+    "type": "farewell"
+  },
+  {
+    "question": "cansada(o)",
+    "answer": "tired",
+    "type": "adjective"
+  },
+  {
+    "question": "tímido(a)",
+    "answer": "shy",
+    "type": "adjective"
+  },
+    {
+    "question": "medroso(a)",
+    "answer": "scared",
+    "type": "adjective"
+  },
+  {
+    "question": "doente",
+    "answer": "sick",
+    "type": "adjective"
+  },
+  {
+    "question": "ocupado",
+    "answer": "busy",
+    "type": "adjective"
+  },
+  {
+    "question": "confuso",
+    "answer": "confused",
+    "type": "adjective"
+  },
+  {
+    "question": "feliz",
+    "answer": "happy",
+    "type": "adjective"
+  },
+  {
+    "question": "ansioso",
+    "answer": "anxious",
+    "type": "adjective"
+  },
+  {
+    "question": "apaixonado",
+    "answer": "in love",
+    "type": "adjective"
+  },
+  {
+    "question": "bravo",
+    "answer": "angry",
+    "type": "adjective"
+  },
+  {
+    "question": "bonito(a)",
+    "answer": "beautiful",
+    "type": "adjective"
+  },
+  {
+    "question": "grande",
+    "answer": "big",
+    "type": "adjective"
+  },
+  {
+    "question": "pequeno",
+    "answer": "small",
+    "type": "adjective"
+  },
+  {
+    "question": "bom",
+    "answer": "good",
+    "type": "adjective"
+  },
+  {
+    "question": "mau",
+    "answer": "bad",
+    "type": "adjective"
+  },
+  {
+    "question": "cedo",
+    "answer": "early",
+    "type": "adverb"
+  },
+  {
+    "question": "tarde",
+    "answer": "late",
+    "type": "adverb"
+  },
+  {
+    "question": "sempre",
+    "answer": "always",
+    "type": "adverb"
+  },
+  {
+    "question": "nunca",
+    "answer": "never",
+    "type": "adverb"
+  },
+  {
+    "question": "já",
+    "answer": "already/yet",
+    "type": "adverb"
+  },
+  {
+    "question": "ainda",
+    "answer": "still",
+    "type": "adverb"
+  },
+  {
+    "question": "mais",
+    "answer": "more",
+    "type": "adverb"
+  },
+  {
+    "question": "menos",
+    "answer": "less",
+    "type": "adverb"
+  },
+  {
+    "question": "muito",
+    "answer": "very/much/many",
+    "type": "adverb"
+  },
+  {
+    "question": "pouco",
+    "answer": "little/few",
+    "type": "adverb"
+  },
+  {
+    "question": "Onde",
+    "answer": "Where",
+    "type": "question word"
+  },
+  {
+    "question": "Quando",
+    "answer": "When",
+    "type": "question word"
+  },
+  {
+    "question": "Qual",
+    "answer": "Which/What",
+    "type": "question word"
+  },
+  {
+    "question": "Quem",
+    "answer": "Who",
+    "type": "question word"
+  },
+  {
+    "question": "Por que",
+    "answer": "Why",
+    "type": "question word"
+  },
+  {
+    "question": "Como",
+    "answer": "How",
+    "type": "question word"
+  },
+  {
+    "question": "Para onde você vai?",
+    "answer": "Where are you going?",
+    "type": "question"
+  },
+  {
+    "question": "De onde você é?",
+    "answer": "Where are you from?",
+    "type": "question"
+  },
+  {
+    "question": "Quantas vezes?",
+    "answer": "How many times?",
+    "type": "question"
+  },
+  {
+    "question": "À luz de velas",
+    "answer": "By candlelight",
+    "type": "expression"
+  },
+  {
+    "question": "Lua-de-mel",
+    "answer": "Honeymoon",
+    "type": "noun"
+  },
+  {
+    "question": "No geral",
+    "answer": "In general",
+    "type": "expression"
+  },
+  {
+    "question": "Claro",
+    "answer": "Of course",
+    "type": "expression"
+  },
+  {
+    "question": "Absurdo",
+    "answer": "Absurd",
+    "type": "noun"
+  },
+  {
+    "question": "Doidão",
+    "answer": "Crazy",
+    "type": "adjective"
+  },
+  {
+    "question": "Chato",
+    "answer": "Annoying",
+    "type": "adjective"
+  },
+  {
+    "question": "Gripado",
+    "answer": "Having the flu",
+    "type": "adjective"
+  },
+  {
+    "question": "Lugar",
+    "answer": "Place",
+    "type": "noun"
+  },
+  {
+    "question": "Voltar",
+    "answer": "To return",
+    "type": "verb"
+  },
+  {
+    "question": "Visitar",
+    "answer": "To visit",
+    "type": "verb"
+  },
+  {
+    "question": "Ajudar",
+    "answer": "To help",
+    "type": "verb"
+  },
+  {
+    "question": "Achar",
+    "answer": "To find",
+    "type": "verb"
+  },
+  {
+    "question": "Levar",
+    "answer": "To take",
+    "type": "verb"
+  },
+  {
+    "question": "Vir",
+    "answer": "To come",
+    "type": "verb"
+  },
+  {
+    "question": "Ver",
+    "answer": "To see",
+    "type": "verb"
+  },
+  {
+    "question": "Longe",
+    "answer": "Far",
+    "type": "adverb"
+  },
+  {
+    "question": "Perto",
+    "answer": "Near",
+    "type": "adverb"
+  },
+  {
+    "question": "Antes",
+    "answer": "Before",
+    "type": "adverb"
+  },
+  {
+    "question": "Depois",
+    "answer": "After",
+    "type": "adverb"
+  },
+  {
+    "question": "Para",
+    "answer": "For/To",
+    "type": "preposition"
+  },
+   {
+    "question": "Com",
+    "answer": "With",
+    "type": "preposition"
+  },
+  {
+    "question": "Sobre",
+    "answer": "About/On",
+    "type": "preposition"
+  },
+  {
+    "question": "almoçar",
+    "answer": "to have lunch",
+    "type": "verb"
+  },
+  {
+    "question": "jantar",
+    "answer": "to have dinner",
+    "type": "verb"
+  },
+  {
+    "question": "preferir",
+    "answer": "to prefer",
+    "type": "verb"
+  },
+  {
+    "question": "tirar",
+    "answer": "to take out",
+    "type": "verb"
+  },
+  {
+    "question": "usar",
+    "answer": "to use",
+    "type": "verb"
+  },
+  {
+    "question": "vestir",
+    "answer": "to wear",
+    "type": "verb"
+  },
+  {
+    "question": "achar",
+    "answer": "to think/find",
+    "type": "verb"
+  },
+  {
+    "question": "Eu tomo café da manhã",
+    "answer": "I have breakfast",
+    "type": "phrase"
+  },
+  {
+    "question": "Eu almoço",
+    "answer": "I have lunch",
+    "type": "phrase"
+  },
+  {
+    "question": "Eu janto",
+    "answer": "I have dinner",
+    "type": "phrase"
+  },
+  {
+    "question": "Eu prefiro",
+    "answer": "I prefer",
+    "type": "phrase"
+  },
+  {
+    "question": "Eu costumo",
+    "answer": "I usually",
+    "type": "phrase"
+  },
+  {
+    "question": "Eu bebo",
+    "answer": "I drink",
+    "type": "phrase"
+  },
+  {
+    "question": "Eu uso",
+    "answer": "I use",
+    "type": "phrase"
+  },
+  {
+    "question": "Eu visto",
+    "answer": "I wear",
+    "type": "phrase"
+  },
+  {
+    "question": "Eu estava",
+    "answer": "I was",
+    "type": "phrase"
+  },
+  {
+    "question": "Saímos",
+    "answer": "We went out",
+    "type": "phrase"
+  },
+  {
+    "question": "Sou",
+    "answer": "I am",
+    "type": "phrase"
+  },
+  {
+    "question": "Fiz",
+    "answer": "I did/made",
+    "type": "phrase"
+  },
+  {
+    "question": "Vou ir",
+    "answer": "I will go",
+    "type": "phrase"
+  },
+  {
+    "question": "Brasileiro",
+    "answer": "Brazilian",
+    "type": "adjective"
+  },
+  {
+    "question": "Canadense",
+    "answer": "Canadian",
+    "type": "adjective"
+  },
+  {
+    "question": "Argentinos",
+    "answer": "Argentinians",
+    "type": "adjective"
+  },
+   {
+    "question": "Americanos",
+    "answer": "Americans",
+    "type": "adjective"
+  },
+  {
+    "question": "Paulista",
+    "answer": "From São Paulo (state)",
+    "type": "adjective"
+  },
+   {
+    "question": "Mineiro",
+    "answer": "From Minas Gerais (state)",
+    "type": "adjective"
+  },
+   {
+    "question": "Baiana",
+    "answer": "From Bahia (state)",
+    "type": "adjective"
+  },
+  {
+    "question": "Paranaense",
+    "answer": "From Paraná (state)",
+    "type": "adjective"
+  },
+  {
+    "question": "Potiguar",
+    "answer": "From Rio Grande do Norte (state)",
+    "type": "adjective"
+  },
+  {
+    "question": "Duas vezes",
+    "answer": "Two times",
+    "type": "phrase"
+  },
+  {
+    "question": "Três vezes",
+    "answer": "Three times",
+    "type": "phrase"
+  },
+  {
+    "question": "Quatro vezes",
+    "answer": "Four times",
+    "type": "phrase"
+  },
+    {
+    "question": "Escovar os dentes",
+    "answer": "To brush your teeth",
+    "type": "verb"
+  },
+  {
+    "question": "Dia de folga",
+    "answer": "Day off",
+    "type": "noun"
+  },
+   {
+    "question": "Pedir comida",
+    "answer": "To order food",
+    "type": "verb"
+  },
+  {
+    "question": "Chatão",
+    "answer": "Very annoying",
+    "type": "adjective"
+  },
+  {
+    "question": "Hora extra",
+    "answer": "Overtime",
+    "type": "noun"
+  },
+  {
+    "question": "Atestado",
+    "answer": "Medical certificate",
+    "type": "noun"
+  },
+  {
+    "question": "Cobertas",
+    "answer": "Blankets",
+    "type": "noun"
+  },
+  {
+    "question": "Voz grossona",
+    "answer": "Deep voice",
+    "type": "noun"
+  },
+  {
+    "question": "Medão",
+    "answer": "Great fear",
+    "type": "noun"
+  },
+  {
+    "question": "Bonitinho(a)",
+    "answer": "Pretty/Cute",
+    "type": "adjective"
+  },
+  {
+    "question": "Bonitão(ona)",
+    "answer": "Very Beautiful",
+    "type": "adjective"
+  },
+   {
+    "question": "Bravinho(a)",
+    "answer": "A little angry",
+    "type": "adjective"
+  },
+  {
+    "question": "Bravão(ona)",
+    "answer": "Very angry",
+    "type": "adjective"
+  },
+  {
+    "question": "Casinha",
+    "answer": "Small House",
+    "type": "noun"
+  },
+  {
+    "question": "Casona",
+    "answer": "Big House",
+    "type": "noun"
+  },
+  {
+    "question": "Espertinho(a)",
+    "answer": "Smart/Clever",
+    "type": "adjective"
+  },
+  {
+    "question": "Espertão(ona)",
+    "answer": "Very Smart/Clever",
+    "type": "adjective"
+  },
+  {
+    "question": "Inteligentinho(a)",
+    "answer": "Kind of Intelligent",
+    "type": "adjective"
+  },
+  {
+    "question": "Inteligentão(ona)",
+    "answer": "Very Intelligent",
+    "type": "adjective"
+  },
+  {
+    "question": "Brinco",
+    "answer": "Earring",
+    "type": "noun"
+  },
+  {
+    "question": "Terno",
+    "answer": "Suit",
+    "type": "noun"
+  },
+  {
+    "question": "Gravata",
+    "answer": "Tie",
+    "type": "noun"
+  },
+  {
+    "question": "Vestido Longo",
+    "answer": "Long Dress",
+    "type": "noun"
+  },
+  {
+    "question": "Elegantes",
+    "answer": "Elegant",
+    "type": "adjective"
+  },
+    {
+    "question": "Cantar em um bar",
+    "answer": "Sing in a bar",
+    "type": "verb"
+  },
+  {
+    "question": "Lua-de-mel",
+    "answer": "Honeymoon",
+    "type": "noun"
+  },
+  {
+    "question": "Reservar",
+    "answer": "To book",
+    "type": "verb"
+  },
+  {
+    "question": "Passeios",
+    "answer": "Tours",
+    "type": "noun"
+  },
+  {
+    "question": "Curtir",
+    "answer": "To enjoy",
+    "type": "verb"
+  },
+  {
+    "question": "Tratamento de Rainha",
+    "answer": "Queen treatment",
+    "type": "phrase"
+  },
+  {
+    "question": "SPA",
+    "answer": "SPA",
+    "type": "noun"
+  },
+  {
+    "question": "Massagem",
+    "answer": "Massage",
+    "type": "noun"
+  },
+  {
+    "question": "Banhos relaxantes",
+    "answer": "Relaxing Baths",
+    "type": "noun"
+  },
+  {
+    "question": "Quarto decorado",
+    "answer": "Decorated room",
+    "type": "noun"
+  },
+  {
+    "question": "Champanhe",
+    "answer": "Champagne",
+    "type": "noun"
+  },
+  {
+    "question": "Perfumes",
+    "answer": "Perfumes",
+    "type": "noun"
+  },
+  {
+    "question": "Saudade",
+    "answer": "Missing someone/something",
+    "type": "noun"
+  },
+  {
+    "question": "Querer",
+    "answer": "To want",
+    "type": "verb"
+  },
+   {
+    "question": "Meia",
+    "answer": "Half",
+    "type": "noun"
+  },
+  {
+    "question": "Aparências",
+    "answer": "Appearances",
+    "type": "noun"
+  },
+  {
+    "question": "Evidências",
+    "answer": "Evidences",
+    "type": "noun"
+  },
+  {
+    "question": "Desejo",
+    "answer": "Desire",
+    "type": "noun"
+  },
+  {
+    "question": "Chega",
+    "answer": "Enough",
+    "type": "interjection"
+  },
+  {
+    "question": "Mentiras",
+    "answer": "Lies",
+    "type": "noun"
+  },
+   {
+    "question": "Gramado",
+    "answer": "Gramado (city in Brazil)",
+    "type": "noun"
+  },
+  {
+    "question": "Violinos",
+    "answer": "Violins",
+    "type": "noun"
+  },
+  {
+    "question": "Rosas",
+    "answer": "Roses",
+    "type": "noun"
+  },
+  {
+    "question": "Sonolento(a)",
+    "answer": "Sleepy",
+    "type": "adjective"
+  },
+  {
+    "question": "Raiva",
+    "answer": "Rage",
+    "type": "noun"
+  },
+  {
+    "question": "Faltam",
+    "answer": "Missing",
+    "type": "verb"
+  },
+  {
+    "question": "Enganar",
+    "answer": "To deceive",
+    "type": "verb"
+  },
+  {
+    "question": "Disfarçando",
+    "answer": "Disguising",
+    "type": "verb"
+  },
+  {
+   "question": "Louco",
+    "answer": "Crazy",
+    "type": "adjective"
+  },
+  {
+    "question": "Deixei",
+    "answer": "I left",
+    "type": "verb"
+  },
+  {
+    "question": "Karaokês",
+    "answer": "Karaokes",
+    "type": "noun"
+  },
+  {
+    "question": "Metrôs",
+    "answer": "Subways",
+    "type": "noun"
+  },
+  {
+    "question": "Contagiantes",
+    "answer": "Contagious",
+    "type": "adjective"
+  },
+  {
+    "question": "Versos",
+    "answer": "Verses",
+    "type": "noun"
+  },
+  {
+    "question": "Exaustão",
+    "answer": "Exhaustion",
+    "type": "noun"
+  },
+  {
+    "question": "Chácaras",
+    "answer": "Farms",
+    "type": "noun"
+  },
+  {
+    "question": "Lixo",
+    "answer": "Trash",
+    "type": "noun"
+  },
+  {
+    "question": "Despertador",
+    "answer": "Alarm",
+    "type": "noun"
+  },
+   {
+    "question": "Banhos relaxantes",
+    "answer": "Relaxing baths",
+    "type": "noun"
+  },
+  {
+    "question": "Se eu te perder um dia",
+    "answer": "If I lose you one day",
+    "type": "expression"
+  },
+   {
+    "question": "Se eu te perder",
+    "answer": "If I lose you",
+    "type": "expression"
+  },
+  {
+    "question": "Tenho medo de pensar em te perder",
+    "answer": "I'm afraid to think of losing you",
+    "type": "expression"
+  },
+  {
+    "question": "Convidar",
+    "answer": "Invite",
+    "type": "verb"
+  },
+   {
+    "question": "Sentimentos",
+    "answer": "Feelings",
+    "type": "noun"
+  },
+  {
+    "question": "Dizer",
+    "answer": "To say",
+    "type": "verb"
+  },
+  {
+    "question": "Vou negar",
+    "answer": "I will deny",
+    "type": "verb"
+  },
+   {
+    "question": "Eu preciso do seu beijo",
+    "answer": "I need your kiss",
+    "type": "expression"
+  },
+  {
+    "question": "Acordo às",
+    "answer": "I wake up at",
+    "type": "expression"
+  },
+  {
+    "question": "Vou pro trabalho",
+    "answer": "I go to work",
+    "type": "expression"
+  },
+  {
+    "question": "Balneário Camboriú",
+    "answer": "Balneário Camboriú (City in Brazil)",
+    "type": "noun"
+  },
+  {
+    "question": "Vôo",
+    "answer": "Flight",
+    "type": "noun"
+  },
+  {
+    "question": "Sala de Jantar",
+    "answer": "Dinning Room",
+    "type": "noun"
+  },
+  {
+    "question": "Eu tomo",
+    "answer": "I take",
+    "type": "expression"
+  },
+  {
+    "question": "Geralmente como",
+    "answer": "I generally eat",
+    "type": "expression"
+  },
+   {
+    "question": "Eu gosto de ir dormir",
+    "answer": "I like to go to sleep",
+    "type": "expression"
+  },
+  {
+    "question": "Eu sublinho",
+    "answer": "I underline",
+    "type": "expression"
+  },
+  {
+    "question": "O som de",
+    "answer": "The sound of",
+    "type": "expression"
+  },
+  {
+    "question": "Sinatra",
+    "answer": "Sinatra",
+    "type": "noun"
+  },
+   {
+    "question": "Eu vou colocar",
+    "answer": "I will put",
+    "type": "expression"
+  },
+  {
+    "question": "Eu vou nos levar",
+    "answer": "I will take us",
+    "type": "expression"
+  },
+  {
+    "question": "Lua-de-mel",
+    "answer": "Honeymoon",
+    "type": "noun"
+  },
+  {
+    "question": "O elevador",
+    "answer": "The elevator",
+    "type": "noun"
+  },
+  {
+    "question": "Segunda-feira",
+    "answer": "Monday",
+    "type": "day of the week"
+  },
+  {
+    "question": "Terça-feira",
+    "answer": "Tuesday",
+    "type": "day of the week"
+  },
+  {
+    "question": "Quarta-feira",
+    "answer": "Wednesday",
+    "type": "day of the week"
+  },
+  {
+    "question": "Quinta-feira",
+    "answer": "Thursday",
+    "type": "day of the week"
+  },
+  {
+    "question": "Sexta-feira",
+    "answer": "Friday",
+    "type": "day of the week"
+  },
+  {
+    "question": "Sábado",
+    "answer": "Saturday",
+    "type": "day of the week"
+  },
+  {
+    "question": "Domingo",
+    "answer": "Sunday",
+    "type": "day of the week"
+  },
+  {
+    "question": "Janeiro",
+    "answer": "January",
+    "type": "month"
+  },
+  {
+    "question": "Fevereiro",
+    "answer": "February",
+    "type": "month"
+  },
+  {
+    "question": "Março",
+    "answer": "March",
+    "type": "month"
+  },
+  {
+    "question": "Abril",
+    "answer": "April",
+    "type": "month"
+  },
+  {
+    "question": "Maio",
+    "answer": "May",
+    "type": "month"
+  },
+  {
+    "question": "Junho",
+    "answer": "June",
+    "type": "month"
+  },
+  {
+    "question": "Julho",
+    "answer": "July",
+    "type": "month"
+  },
+  {
+    "question": "Agosto",
+    "answer": "August",
+    "type": "month"
+  },
+  {
+    "question": "Setembro",
+    "answer": "September",
+    "type": "month"
+  },
+  {
+    "question": "Outubro",
+    "answer": "October",
+    "type": "month"
+  },
+  {
+    "question": "Novembro",
+    "answer": "November",
+    "type": "month"
+  },
+  {
+    "question": "Dezembro",
+    "answer": "December",
+    "type": "month"
+  },
+  {
+    "question": "200",
+    "answer": "duzentos",
+    "type": "number"
+  },
+  {
+    "question": "201",
+    "answer": "duzentos e um",
+    "type": "number"
+  },
+  {
+    "question": "300",
+    "answer": "trezentos",
+    "type": "number"
+  },
+  {
+    "question": "345",
+    "answer": "trezentos e quarenta e cinco",
+    "type": "number"
+  },
+   {
+    "question": "400",
+    "answer": "quatrocentos",
+    "type": "number"
+  },
+  {
+    "question": "500",
+    "answer": "quinhentos",
+    "type": "number"
+  },
+  {
+    "question": "600",
+    "answer": "seiscentos",
+    "type": "number"
+  },
+  {
+    "question": "700",
+    "answer": "setecentos",
+    "type": "number"
+  },
+  {
+    "question": "800",
+    "answer": "oitocentos",
+    "type": "number"
+  },
+  {
+    "question": "900",
+    "answer": "novecentos",
+    "type": "number"
+  },
+  {
+    "question": "1000",
+    "answer": "mil",
+    "type": "number"
+  },
+  {
+    "question": "1100",
+    "answer": "mil e cem",
+    "type": "number"
+  },
+  {
+    "question": "1101",
+    "answer": "mil cento e um",
+    "type": "number"
+  }
+]
